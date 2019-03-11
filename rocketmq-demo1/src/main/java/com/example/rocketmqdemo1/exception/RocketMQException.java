@@ -6,7 +6,6 @@ import com.example.rocketmqdemo1.constant.ErrorCode;
  * Title:com.example.rocketmqdemo1.exception.RocketMQException
  * Description:
  * Copyright: Copyright (c) 2019
- * Company: 北京思特奇信息技术股份有限公司
  *
  * @author dangqp
  * @version 1.0

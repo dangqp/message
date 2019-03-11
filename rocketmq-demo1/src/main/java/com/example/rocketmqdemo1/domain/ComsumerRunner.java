@@ -16,7 +16,6 @@ import org.springframework.stereotype.Component;
  * Title:com.example.rocketmqdemo1.domain.ComsumerRunner
  * Description:  此类没什么用
  * Copyright: Copyright (c) 2019
- * Company: 北京思特奇信息技术股份有限公司
  *
  * @author dangqp
  * @version 1.0
